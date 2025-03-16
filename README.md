@@ -11,7 +11,7 @@ Bu proje, JavaScript ile localStorage ve sessionStorage kullanarak kullanıcı v
 - **Tek Seferlik Veri Çekme:** Kullanıcı bu butona tıkladığında, sessionStorage’a bir değer eklenir. Aynı oturumda bu buton yalnızca bir kez kullanılabilir.
 
 ## Kullanım
-1. `index.html` dosyasını açın veya JS dosyasını direkt console’a yapıştırarak test edin.
+1. JS dosyasını direkt console’a yapıştırarak test edin. (Not: CSP gibi güvenlik politikaları herhangi bir sitenin console'unda çalışmasını engelleyebilir, bunu ele almak gerekir. Bunun için boş index.html ile denenebilir.)
 2. `appendLocation` değişkenini ihtiyacınıza göre güncelleyin.
 
 ## Teknolojiler
